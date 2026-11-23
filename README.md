@@ -1,16 +1,14 @@
-## Hi there 👋
+## Projects
 
-<!--
-**pdhall99/pdhall99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Astrophysics
 
-Here are some ideas to get you started:
+- **[Rocheometry](https://github.com/pdhall99/rocheometry)** · [PyPI](https://pypi.org/project/rocheometry/) · [Docs](https://pdhall99.github.io/rocheometry/)\
+  Compute the equipotential geometry of binary systems in the classical Roche model.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Natural language processing
+
+- **[spanmark](https://github.com/pdhall99/spanmark)** · [PyPI](https://pypi.org/project/spanmark/)\
+  Annotate text datasets with labelled spans in Jupyter and other notebook environments.
+
+- **[spanwend](https://github.com/pdhall99/spanwend)** · [PyPI](https://pypi.org/project/spanwend/)\
+  Convert between sequence tags and spans, with validation and repair for BIO, BILOU, IOB1, and related schemes.
